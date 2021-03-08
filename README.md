@@ -17,6 +17,9 @@ This project visualizes [Beau's strava data][1] in a [Dash App][2] designed to a
 
 ## Tactical Details
 
+### General Approach
+- Use branches and PRs with code reviews before merging with main
+
 ### Division of Labor & Milestones
 #### Brian
 Read Strava data from Gsheets and put into Dash
