@@ -9,11 +9,14 @@ This project visualizes [Beau's strava data][1] in a [Dash App][2] designed to a
 
 ## Motivation
 - Technical Learning
-    - Great opportunity to practice getting data from a modern API - Strava
-    - Given we use Google Sheets so much personally & professionally, learning to use its API makes a lot of sense
-    - Dash adds another powerful data visualization tool to the toolkit & is an introduction to making web apps
-    
-- This project incentivizes use of Strava which means more exercise which means better health! 
+  - Great opportunity to practice getting data from a modern API - Strava
+  - Given we use Google Sheets so much personally & professionally, learning to use its API makes a lot of sense
+  - Dash adds another powerful data visualization tool to the toolkit & is an introduction to making web apps
+- This project incentivizes use of Strava which means more exercise which means better health!
+- Curiosity about some activity questions:
+  - Beau moved from California to Colorado in 2020, how did activity vary between 2019 and 2020? Or really any two years...
+  - What are the characteristics of activities that people give more kudos to?
+  - What does monthly seasonality of activities look like?
 
 ## Tactical Details
 
